@@ -11,7 +11,7 @@ function App() {
         {!showList && <BookForm setShowList={setShowList} />}
         {showList && <ShowList setShowList={setShowList} />}
       </div>
-      <div id="footer">Unstop © by Ayush Verma </div>
+      <div id="footer">Unstop © by Sagarika </div>
     </>
   );
 }
